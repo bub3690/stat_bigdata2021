@@ -1,0 +1,48 @@
+
+
+버섯전체
+https://at.agromarket.kr/domeinfo/sanTrade.do?pageNo=1&startDateBefore=2019-01-01&endDateBefore=2021-09-28&largeCdBefore=17&midCdBefore=&startDate=2019-01-01&endDate=2021-09-28&whsalCd=110008&cmpCd=&sanCd=&largeCd=17
+
+과채류
+https://at.agromarket.kr/domeinfo/sanTrade.do?pageNo=1&startDateBefore=2019-01-01&endDateBefore=2021-09-28&largeCdBefore=17&midCdBefore=&startDate=2019-01-01&endDate=2021-09-28&whsalCd=310101&cmpCd=&sanCd=&largeCd=09
+
+근채류
+https://at.agromarket.kr/domeinfo/sanTrade.do?pageNo=1&startDateBefore=2019-01-01&endDateBefore=2021-09-28&largeCdBefore=09&midCdBefore=&startDate=2019-01-01&endDate=2021-09-28&whsalCd=310101&cmpCd=&sanCd=&largeCd=11&midCd=
+
+
+whsalCd : 도매시장
+<option value="110001">서울가락</option>
+<option value="110008" selected="selected">서울강서</option>
+<option value="310101">수원</option>
+<option value="310401">안양</option>
+<option value="310901">안산</option>
+<option value="311201">구리</option>
+<option value="230001">인천남촌</option>
+<option value="230003">인천삼산</option>
+<option value="360301">순천</option>
+<option value="240001">광주각화</option>
+<option value="240004">광주서부</option>
+<option value="350402">정읍</option>
+<option value="350301">익산</option>
+<option value="350101">전주</option>
+<option value="250001">대전오정</option>
+<option value="250003">대전노은</option>
+<option value="330101">청주</option>
+<option value="340101">천안</option>
+<option value="330201">충주</option>
+<option value="370401">안동</option>
+<option value="371501">구미</option>
+<option value="220001">대구북부</option>
+<option value="380401">진주</option>
+<option value="380101">창원팔용</option>
+<option value="380303">창원내서</option>
+<option value="210001">부산엄궁</option>
+<option value="210009">부산반여</option>
+<option value="380201">울산</option>
+<option value="370101">포항</option>
+<option value="320201">원주</option>
+<option value="320101">춘천</option>
+<option value="320301">강릉</option>
+<option value="210005">부산국제수산</option>
+
+
