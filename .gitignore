@@ -3,4 +3,6 @@
 /files/전체
 /scrap/.ipynb_checkpoints
 AT_TSALET_ALL_201601.csv
-*.csv
+files/도매시장/
+files/전처리/
+files/도매데이터/
